@@ -3,15 +3,24 @@ version: '3.8'
 services:
   sqlserver:
     image: mcr.microsoft.com/mssql/server:2022-latest
-    container_name: sql_local_dev
+    container_name: sqlserver
     environment:
       - ACCEPT_EULA=Y
-      - MSSQL_SA_PASSWORD=V3l0c1d@d3
+      - MSSQL_SA_PASSWORD=SuaSenhaForte123!
     ports:
       - "1433:1433"
-    volumes:
-      - sql_data:/var/opt/mssql
 
-volumes:
-  sql_data:
-    driver: local
+  # Serviço temporário apenas para rodar o script de criação
+  db-init:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    depends_on:
+      - sqlserver
+    volumes:
+      - ./Script_create_tables.sql:/init.sql
+    entrypoint: >
+      /bin/bash -c "
+      echo 'Aguardando o SQL Server iniciar...';
+      sleep 15;
+      /opt/mssql-tools18/bin/sqlcmd -S sqlserver -U sa -P 'SuaSenhaForte123!' -C -i /init.sql;
+      echo 'Tabelas criadas com sucesso!';
+      "
