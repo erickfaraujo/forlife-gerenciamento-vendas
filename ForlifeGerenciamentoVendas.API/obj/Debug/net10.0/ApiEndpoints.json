@@ -1,0 +1,180 @@
+[
+  {
+    "ContainingType": "ForlifeGerenciamentoVendas.API.Endpoints.ClienteEndpoints",
+    "Method": "CadastrarCliente",
+    "RelativePath": "v1/clientes",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ForlifeGerenciamentoVendas.Shareable.Requests.Cliente.CadastrarClienteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "CadastrarCliente"
+  },
+  {
+    "ContainingType": "ForlifeGerenciamentoVendas.API.Endpoints.ClienteEndpoints",
+    "Method": "ConsultarClientes",
+    "RelativePath": "v1/clientes",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdLocal",
+        "Type": "System.Nullable\u00601[[System.Guid, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Nome",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Telefone",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "ConsultarClientes"
+  },
+  {
+    "ContainingType": "ForlifeGerenciamentoVendas.API.Endpoints.ClienteEndpoints",
+    "Method": "ConsultarDetalhesCLiente",
+    "RelativePath": "v1/clientes/{id:int}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "CadastrarDetalhesCliente"
+  },
+  {
+    "ContainingType": "ForlifeGerenciamentoVendas.API.Endpoints.ClienteEndpoints",
+    "Method": "AtualizarCliente",
+    "RelativePath": "v1/clientes/{id:int}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "ForlifeGerenciamentoVendas.Shareable.Requests.Cliente.AtualizarClienteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "AtualizarCliente"
+  },
+  {
+    "ContainingType": "ForlifeGerenciamentoVendas.API.Endpoints.LocalVendaEndpoints",
+    "Method": "ConsultarLocais",
+    "RelativePath": "v1/locais/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "descricao",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ForlifeGerenciamentoVendas.API.Endpoints.LocalVendaEndpoints",
+    "Method": "CadastrarLocal",
+    "RelativePath": "v1/locais/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ForlifeGerenciamentoVendas.Shareable.Requests.LocaisVenda.CadastrarLocalRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ForlifeGerenciamentoVendas.API.Endpoints.LocalVendaEndpoints",
+    "Method": "ConsultarDetalhesLocal",
+    "RelativePath": "v1/locais/{id}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

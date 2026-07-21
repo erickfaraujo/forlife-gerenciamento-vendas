@@ -1,0 +1,12 @@
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Shareable\bin\Debug\net10.0\ForlifeGerenciamentoVendas.Shareable.deps.json
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Shareable\bin\Debug\net10.0\ForlifeGerenciamentoVendas.Shareable.dll
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Shareable\bin\Debug\net10.0\ForlifeGerenciamentoVendas.Shareable.pdb
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Shareable\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Shareable.csproj.AssemblyReference.cache
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Shareable\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Shareable.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Shareable\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Shareable.AssemblyInfoInputs.cache
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Shareable\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Shareable.AssemblyInfo.cs
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Shareable\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Shareable.csproj.CoreCompileInputs.cache
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Shareable\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Shareable.dll
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Shareable\obj\Debug\net10.0\refint\ForlifeGerenciamentoVendas.Shareable.dll
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Shareable\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Shareable.pdb
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Shareable\obj\Debug\net10.0\ref\ForlifeGerenciamentoVendas.Shareable.dll

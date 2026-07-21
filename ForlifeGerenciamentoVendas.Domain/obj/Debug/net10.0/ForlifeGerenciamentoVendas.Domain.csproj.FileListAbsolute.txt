@@ -1,0 +1,15 @@
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Domain\bin\Debug\net10.0\ForlifeGerenciamentoVendas.Domain.deps.json
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Domain\bin\Debug\net10.0\ForlifeGerenciamentoVendas.Domain.dll
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Domain\bin\Debug\net10.0\ForlifeGerenciamentoVendas.Domain.pdb
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Domain\bin\Debug\net10.0\ForlifeGerenciamentoVendas.Shareable.dll
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Domain\bin\Debug\net10.0\ForlifeGerenciamentoVendas.Shareable.pdb
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Domain\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Domain.csproj.AssemblyReference.cache
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Domain\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Domain\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Domain.AssemblyInfoInputs.cache
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Domain\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Domain.AssemblyInfo.cs
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Domain\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Domain.csproj.CoreCompileInputs.cache
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Domain\obj\Debug\net10.0\ForlifeG.F370AEDB.Up2Date
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Domain\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Domain.dll
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Domain\obj\Debug\net10.0\refint\ForlifeGerenciamentoVendas.Domain.dll
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Domain\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Domain.pdb
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Domain\obj\Debug\net10.0\ref\ForlifeGerenciamentoVendas.Domain.dll

@@ -1,0 +1,17 @@
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\bin\Debug\net10.0\ForlifeGerenciamentoVendas.Data.deps.json
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\bin\Debug\net10.0\ForlifeGerenciamentoVendas.Data.dll
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\bin\Debug\net10.0\ForlifeGerenciamentoVendas.Data.pdb
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\bin\Debug\net10.0\ForlifeGerenciamentoVendas.Domain.dll
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\bin\Debug\net10.0\ForlifeGerenciamentoVendas.Shareable.dll
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\bin\Debug\net10.0\ForlifeGerenciamentoVendas.Domain.pdb
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\bin\Debug\net10.0\ForlifeGerenciamentoVendas.Shareable.pdb
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Data.csproj.AssemblyReference.cache
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Data.AssemblyInfoInputs.cache
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Data.AssemblyInfo.cs
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Data.csproj.CoreCompileInputs.cache
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\obj\Debug\net10.0\ForlifeG.774578B7.Up2Date
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Data.dll
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\obj\Debug\net10.0\refint\ForlifeGerenciamentoVendas.Data.dll
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\obj\Debug\net10.0\ForlifeGerenciamentoVendas.Data.pdb
+C:\repo\forlife\ForlifeGerenciamentoVendas\ForlifeGerenciamentoVendas.Data\obj\Debug\net10.0\ref\ForlifeGerenciamentoVendas.Data.dll

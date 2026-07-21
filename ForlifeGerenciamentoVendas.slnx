@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ForlifeGerenciamentoVendas.API/ForlifeGerenciamentoVendas.API.csproj" />
+  <Project Path="ForlifeGerenciamentoVendas.Data/ForlifeGerenciamentoVendas.Data.csproj" />
+  <Project Path="ForlifeGerenciamentoVendas.Domain/ForlifeGerenciamentoVendas.Domain.csproj" />
+  <Project Path="ForlifeGerenciamentoVendas.IoC/ForlifeGerenciamentoVendas.IoC.csproj" />
+  <Project Path="ForlifeGerenciamentoVendas.Shareable/ForlifeGerenciamentoVendas.Shareable.csproj" />
+</Solution>
